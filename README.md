@@ -4,7 +4,7 @@ This repo contains a collection of my personal, custom Themes. There are current
 
 __Xcode__ 
 
-- Dream of Spring: 
+- Dream of Spring 
 
 __iTerm2__ 
 
